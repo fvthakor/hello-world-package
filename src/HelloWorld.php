@@ -8,4 +8,8 @@ class HelloWorld
     {
         echo "Hello World";
     }
+    public static function sayHello2()
+    {
+        echo "Hello World 2";
+    }
 }
